@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=60A5FA&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer+in+the+making;Building+End-to-End+ML+Pipelines;Hackathon+Grand+Finalist;300%2B+DSA+Problems+Solved;Always+Open+to+Collaborating" alt="Roles and Interests" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=60A5FA&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer+in+the+making;Building+End-to-End+AI+Solutions;300%2B+DSA+Problems+Solved;Always+Open+to+Collaborating" alt="Roles and Interests" />
 </div>
 
 <div align="center">

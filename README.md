@@ -91,16 +91,6 @@ Currently sharpening DSA fundamentals and hunting for my next hackathon win.
 
 ---
 
-## 🏆 Achievements & Certifications
-
-- 🥇 Winner — Codepunk V2.0 (GLA University) for **HealthMate AI**
-- 🥉 2nd Runner-Up — Mechathon (Tech Navya 2.0)
-- 🏁 Grand Finale Finalist — HackWithUttarPradesh 2025 (among 25,000+ participants)
-- 💻 300+ DSA problems solved | Codeforces 1100+ rating | LeetCode top 25% | GSSoC Contributor
-- 📜 Azure AI Fundamentals (AI-900) | Azure Fundamentals (AZ-900) | Postman API Student Expert
-
----
-
 ## 🚀 Featured Projects
 
 ### 🩺 [HealthMate AI](https://github.com/rachitxcodes/Healthmate-AI)
